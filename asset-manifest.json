@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guru-grupp-react/static/css/main.7c00e33c.chunk.css",
+    "main.js": "/guru-grupp-react/static/js/main.73c64461.chunk.js",
+    "main.js.map": "/guru-grupp-react/static/js/main.73c64461.chunk.js.map",
+    "runtime-main.js": "/guru-grupp-react/static/js/runtime-main.6b0acc39.js",
+    "runtime-main.js.map": "/guru-grupp-react/static/js/runtime-main.6b0acc39.js.map",
+    "static/js/2.35dcc229.chunk.js": "/guru-grupp-react/static/js/2.35dcc229.chunk.js",
+    "static/js/2.35dcc229.chunk.js.map": "/guru-grupp-react/static/js/2.35dcc229.chunk.js.map",
+    "index.html": "/guru-grupp-react/index.html",
+    "static/css/main.7c00e33c.chunk.css.map": "/guru-grupp-react/static/css/main.7c00e33c.chunk.css.map",
+    "static/js/2.35dcc229.chunk.js.LICENSE.txt": "/guru-grupp-react/static/js/2.35dcc229.chunk.js.LICENSE.txt",
+    "static/media/add-1.672cbf02.jpg": "/guru-grupp-react/static/media/add-1.672cbf02.jpg",
+    "static/media/add-2.22c10d2d.jpg": "/guru-grupp-react/static/media/add-2.22c10d2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b0acc39.js",
+    "static/js/2.35dcc229.chunk.js",
+    "static/css/main.7c00e33c.chunk.css",
+    "static/js/main.73c64461.chunk.js"
+  ]
+}
